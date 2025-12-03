@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khurshidakhon
-- 👀 I’m interested in software development (mobile applications)
+- 👀 I’m interested in mobile development 
 - 🌱 I’m currently learning flutter framework
 - 📫 How to reach me write via email: toshbekova.khurshidakhon@gmail.com
 
