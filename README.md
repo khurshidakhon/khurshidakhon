@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khurshidakhon
 - 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning flutter framework
+- 🌱 I’m currently working at flutter framework
 - 📫 How to reach me write via email: toshbekova.khurshidakhon@gmail.com
 
 <!---
